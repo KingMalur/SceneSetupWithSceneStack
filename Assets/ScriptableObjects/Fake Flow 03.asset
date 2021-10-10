@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6328880404338d04bbd68205e49c364d, type: 3}
+  m_Name: Fake Flow 03
+  m_EditorClassIdentifier: 
+  SceneInformation:
+  - {fileID: 11400000, guid: b9fd85796460b594c9ebdf7c5c9b6a17, type: 2}
+  - {fileID: 11400000, guid: ff08adb6ed643bd4092752c008d319aa, type: 2}
+  - {fileID: 11400000, guid: a66c22ac914b9e14496303201b47f45d, type: 2}
+  - {fileID: 11400000, guid: 3470ee0f2dfd55a4880a7997bb1a1cae, type: 2}

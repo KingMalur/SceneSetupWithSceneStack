@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eda8a9aa8f750a146a7e4d47121194e2, type: 3}
+  m_Name: Story 01
+  m_EditorClassIdentifier: 
+  SceneName: Scene 01
+  AlwaysLoadScene: 0
+  PrefabToLoad: {fileID: 2967468850588058757, guid: e4060e6c3b3292447b8d7ba55a9274ea, type: 3}
+  ProgressionFlagToSet: 1
+  SomeFakeString: This text is really important!
+  SomeFakeBool: 1
